@@ -1,4 +1,4 @@
-package programmers;
+package programmers.ing;
 
 import java.util.ArrayList;
 import java.util.Stack;

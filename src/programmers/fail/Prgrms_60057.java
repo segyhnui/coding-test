@@ -1,6 +1,6 @@
-package programmers;
+package programmers.fail;
 
-public class Prgrms_60057_Fail {
+public class Prgrms_60057 {
     /*
     "aabbaccc"	7
     "ababcdcdababcdcd"	9

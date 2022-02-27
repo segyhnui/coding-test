@@ -1,4 +1,4 @@
-package programmers;
+package programmers.ing;
 
 public class Prgrms_67256 {
 

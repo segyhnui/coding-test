@@ -1,4 +1,4 @@
-package programmers;
+package programmers.end;
 
 import java.util.Arrays;
 import java.util.LinkedList;
@@ -105,18 +105,10 @@ public class Prgrms_42587 {
     }
 
     public static void main(String[] args) {
-        /**
-         * 9 7 8 3 1, 0
-         *
-         * 1 3 7 8 9
-         */
-
-//        int[] arr = {2, 1, 3, 2};
+        int[] arr = {2, 1, 3, 2};
         int[] arr2 = {1, 1, 9, 1, 1, 1};
         int[] arr3 = {1, 3, 8, 5, 7, 4, 9};
-        System.out.println("solution = " + solution(arr3, 2));
         System.out.println("solution3(arr3, 2) = " + solution2(arr3, 2));
-//        System.out.println("solution2 = " + solution2);
     }
 
 
